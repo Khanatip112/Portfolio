@@ -1,4 +1,3 @@
-
 #include "MPU6050_6Axis_MotionApps20.h"
 #include "Wire.h"
 #include <ESP8266WiFi.h>
